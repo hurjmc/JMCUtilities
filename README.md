@@ -17,8 +17,8 @@ No knowledge of OO concepts is needed to use these utilities.
 
 
 packages 
-	hurjmc.gui.target
-	hurjmc.gui.maze
-	hurjmc.io 
+- hurjmc.gui.target
+- hurjmc.gui.maze
+- hurjmc.io 
 
 
