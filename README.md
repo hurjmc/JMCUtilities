@@ -16,7 +16,7 @@ No knowledge of OO concepts is needed to use these utilities.
 
 
 
-*packages*   
+**packages** 
 ```
 hurjmc.gui.target
 hurjmc.gui.maze
